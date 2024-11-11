@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Aeliyahaider+👨🏻‍💻;" />
 </h1>
 
-<h3 align="center">A Passionate Wordpress Website dveeloper and a Freelancer</h3>
+<h3 align="center">A Passionate Wordpress Website Developer and a Freelancer</h3>
 
 <br/>
 
